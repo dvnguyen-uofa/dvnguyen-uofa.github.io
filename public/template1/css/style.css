@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,300i,400,400i,500,500i,600,600i,700,800&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,300i,400,400i,500,500i,600,600i,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,300i,400,400i,500,500i,600,600i,700,800&amp;display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,300i,400,400i,500,500i,600,600i,700,800&amp;display=swap");
 /* line 1, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_extend.scss */
 .flex-center-start {
   display: -webkit-box;
@@ -1671,7 +1671,7 @@ h3 {
 
 /* line 104, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
 .property_bg {
-  background-image: url(../img/banner/property.png);
+  background-image: url(../img/banner/property.html);
 }
 
 /* line 1, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_about.scss */
@@ -2491,7 +2491,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/bradcam.html);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_bradcam.scss */
@@ -2506,7 +2506,7 @@ h3 {
 
 /* line 10, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_bradcam.scss */
 .bradcam_bg_4 {
-  background-image: url(../img/banner/details.png);
+  background-image: url(../img/banner/details.html);
 }
 
 /* line 13, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_bradcam.scss */
